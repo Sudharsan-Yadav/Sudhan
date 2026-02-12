@@ -1,0 +1,174 @@
+Instance Username             Password
+
+PRD21    soap01_testuser      Welcome@2025OCI
+
+PRD31    soap02_testuser      Welcome@2025OCI
+
+PRDB2B   ohscustadmin         P8db2b_sg3shared   // 
+ 
+         soap03_testuser      Welcome@2025OCI
+
+STG21    soas01_testuser      Welcome2023
+
+STG31    soas02_testuser      Welcome2023
+
+STGB2B   soas03_testuser	  Welcome2023
+
+DEV21    soad01_testuser      Welcome2023
+ 
+         ohscustadmin         W8bphgic_d21a
+
+Dev22    soad02_testuser      Welcome2023
+ 
+         ohscustadmin         W8bph3ic_d22g
+
+DEV23    soad03_testuser      Welcome2023
+ 
+         ohscustadmin         W3bph8ic_d23sg
+
+DEV24    ohscustadmin         W3bph8ic_d3v24
+
+Dev25    ohscustadmin         W3bph8ic_d3v25
+
+DEVB2B   ohscustadmin         W3bph8ic_d3vb2b
+
+TST22    ohscustadmin         W38ph8ic_t3st01
+
+TST23    ohscustadmin         W3bph8ic_t3st03 
+
+******************************************************************************************
+
+PRD21    https://prd21-gehc.ge-healthcare.net/em
+
+         https://prd21-gehc.ge-healthcare.net/console
+
+         https://prd21-gehc.ge-healthcare.net/servicebus
+
+PRD31    https://prd31-gehc.ge-healthcare.net/em
+
+         https://prd31-gehc.ge-healthcare.net/console
+
+         https://prd31-gehc.ge-healthcare.net/servicebus
+
+PRDB2B   https://prdb2b-gehc.ge-healthcare.net/em
+
+         https://prdb2b-gehc.ge-healthcare.net/console
+
+         https://prdb2b-gehc.ge-healthcare.net/servicebus
+
+STG21    https://stg21-gehc.ge-healthcare.net/em
+
+         https://stg21-gehc.ge-healthcare.net/console
+		 
+		 https://stg21-gehc.ge-healthcare.net/servicebus
+
+STG31    https://stg31-gehc.ge-healthcare.net/em
+
+         https://stg31-gehc.ge-healthcare.net/console
+
+         https://stg31-gehc.ge-healthcare.net/servicebus
+
+STGB2B   https://stgb2b-gehc.ge-healthcare.net/em
+
+         https://stgb2b-gehc.ge-healthcare.net/console
+
+         https://stgb2b-gehc.ge-healthcare.net/servicebus
+
+DEV21    https://dev21-gehc.ge-healthcare.net/em
+
+         https://dev21-gehc.ge-healthcare.net/console
+
+         https://dev21-gehc.ge-healthcare.net/servicebus
+
+DEV22    https://dev22-gehc.ge-healthcare.net/em
+
+         https://dev22-gehc.ge-healthcare.net/console
+
+         https://dev22-gehc.ge-healthcare.net/servicebus
+
+DEV23    https://dev23-gehc.ge-healthcare.net/em
+
+         https://dev23-gehc.ge-healthcare.net/console
+
+         https://dev23-gehc.ge-healthcare.net/servicebus
+
+DEV24    https://dev24-gehc.ge-healthcare.net/em
+
+         https://dev24-gehc.ge-healthcare.net/console
+
+         https://dev24-gehc.ge-healthcare.net/servicebus
+
+DEV25    https://dev25-gehc.ge-healthcare.net/em
+
+         https://dev25-gehc.ge-healthcare.net/console
+
+         https://dev25-gehc.ge-healthcare.net/servicebus
+
+DEVB2B   https://devb2b-gehc.ge-healthcare.net/em
+
+         https://devb2b-gehc.ge-healthcare.net/console
+
+         https://devb2b-gehc.ge-healthcare.net/servicebus
+		 
+TST22    https://tsts22-gehc.ge-healthcare.net/em
+
+         https://tst22-gehc.ge-healthcare.net/console
+
+         https://tst22-gehc.ge-healthcare.net/servicebus
+		 
+TST23    https://tst23-gehc.ge-healthcare.net/em
+
+         https://tst23-gehc.ge-healthcare.net/console
+
+         https://tst23-gehc.ge-healthcare.net/servicebus
+		 
+DEVMYST  https://dev-myst-gehc.ge-healthcare.net/console/#/login
+		 
+******************************************************************************************
+
+PRD   jdbc:oracle:thin:@//prdhceaexa-scan.ge-healthcare.net:1521/soaprd
+
+STG   jdbc:oracle:thin:@//qahceaexa-scan.ge-healthcare.net:1521/soastg
+
+DEV   jdbc:oracle:thin:@//devhceaexa-scan.ge-healthcare.net:1521/soadev
+
+TST   jdbc:oracle:thin:@//devhceaexa-scan.ge-healthcare.net:1521/soadev
+
+******************************************************************************************
+
+JDEV CONNECTION:
+
+Username			Password
+
+PRD21_GEHC	        RiqibewrV2mvru
+
+PRD21_PARKINGLOT	RiqibewrV2mvru
+
+PRD31_GEHC	        Matt78QopHudas
+
+PRD31_PARKINGLOT	Matt78QopHudas
+ 
+PRDB2B_SOAINFRA	    P8db2bYr2025dbsoa 
+
+TST22_GEHC			f051onli4e_EyIn
+
+TST22_PARKINGLOT	w0rKsTAt10n_N0i
+
+TST23_GEHC			g01dM3dAl4u_U4l
+
+TST23_PARKINGLOT	d1c2iT0nA4y_y4a
+
+DEV21_GEHC			f1R3_5sTAt_T10n
+
+DEV21_PARKINGLOT	cReaT1v1t4s_S4t
+
+DEV22_GEHC			sT4_d1Am4D_m3dl
+
+DEV22_PARKINGLOT	sT4_4ti0t_Tr9ck
+
+DEV23_PARKINGLOT	sT4_wa_5h1nGt0n
+
+DEV23_GEHC			sT4_atL1v1e_5Tg
+
+******************************************************************************************
+
