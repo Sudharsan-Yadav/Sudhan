@@ -1,8 +1,13 @@
 x = 20
 
+y = 30
+
+z = 40
+
 The term cron is an abbreviation for "command run on notice" and is also an allusion to the ancient Greek god of time, Chronos. 
 IONOS
 IONOS
  +1
 The full syntax is often referred to as a cron expression which defines a schedule using specific fields and special characters. 
+
 
