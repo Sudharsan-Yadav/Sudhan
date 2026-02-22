@@ -1,0 +1,13 @@
+Check the status: To verify if Jenkins is running or to troubleshoot issues, use:
+bash
+sudo systemctl status jenkins
+This command provides details such as whether the service is active, the main process ID, and recent log entries.
+Stop the service: To manually stop Jenkins, run:
+bash
+sudo systemctl stop jenkins
+Restart the service: This command stops and then starts Jenkins in a single step:
+bash
+sudo systemctl restart jenkins
+Enable auto-start on boot: To ensure Jenkins starts automatically when the system boots, use:
+bash
+sudo systemctl enable jenkins
